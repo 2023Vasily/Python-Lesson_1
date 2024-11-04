@@ -1,33 +1,33 @@
-def print_num():
+def print_8():
     print(8)
-print_num()
-def print_num():
+print_8()
+def print_8():
     print(8)
-print_num()
-def print_num():
+print_8()
+def print_0():
     print(0)
-print_num()
-def print_num():
+print_0()
+def print_0():
     print(0)
-print_num()
-def print_num():
+print_0()
+def print_5():
     print(5)
-print_num()
-def print_num():
+print_5()
+def print_5():
     print(5)
-print_num()
-def print_num():
+print_5()
+def print_5():
     print(5)
-print_num()
-def print_num():
+print_5()
+def print_3():
     print(3)
-print_num()
-def print_num():
+print_3()
+def print_5():
     print(5)
-print_num()
-def print_num():
+print_5()
+def print_3():
     print(3)
-print_num()
-def print_num():
+print_3()
+def print_5():
     print(5)
-print_num()
+print_5()
